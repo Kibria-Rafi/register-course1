@@ -1,0 +1,84 @@
+[
+    {
+        "id": 1,
+        "Course_img": "https://i.ibb.co/D7rhsfS/Rectangle-2-2.png",
+        "CourseTitle": "Introduction to C programming",
+        "description": "Learn the basics of web development, including HTML, CSS, and JavaScript.",
+        "price": 20,
+        "creditHour": 3,
+        "icon": "https://i.ibb.co/fYqMq8s/book.png"
+    },
+    {
+        "id": 2,
+        "Course_img": "https://i.ibb.co/ZNVGp93/Rectangle-2-3.png",
+        "CourseTitle": "Introduction to Basic Algorithms",
+        "description": "Learn the basics of web development, including HTML, CSS, and JavaScript.",
+        "price": 25,
+        "creditHour": 3,
+        "icon": "https://i.ibb.co/fYqMq8s/book.png"
+    },
+    {
+        "id": 3,
+        "Course_img": "https://i.ibb.co/5YHZMmp/Rectangle-2-4.png",
+        "CourseTitle": "Introduction to Basic C++ for DSA",
+        "description": "Learn the basics of web development, including HTML, CSS, and JavaScript.",
+        "price": 12,
+        "creditHour": 3,
+        "icon": "https://i.ibb.co/fYqMq8s/book.png"
+    },
+    {
+        "id": 4,
+        "Course_img": "https://i.ibb.co/HTTMnjv/Rectangle-3.png",
+        "CourseTitle": "Basic basic Data and Structures",
+        "description": "Learn the basics of web development, including HTML, CSS, and JavaScript.",
+        "price": 45,
+        "creditHour": 3,
+        "icon": "https://i.ibb.co/fYqMq8s/book.png"
+    },
+    {
+        "id": 5,
+        "Course_img": "https://i.ibb.co/MfkQ6Gv/Rectangle-2.png",
+        "CourseTitle": "Introduction Basic to OOP Python",
+        "description": "Learn the basics of web development, including HTML, CSS, and JavaScript.",
+        "price": 50,
+        "creditHour": 3,
+        "icon": "https://i.ibb.co/fYqMq8s/book.png"
+    },
+    {
+        "id": 6,
+        "Course_img": "https://i.ibb.co/wh51rwg/Rectangle-2-5.png",
+        "CourseTitle": " Introduction to  Software Engineering",
+        "description": "Learn the basics of web development, including HTML, CSS, and JavaScript.",
+        "price": 20,
+        "creditHour": 3,
+        "icon": "https://i.ibb.co/fYqMq8s/book.png"
+    },
+    {
+        "id": 7,
+        "Course_img": "https://i.ibb.co/Jt3M9DP/Rectangle-3-1.png",
+        "CourseTitle": "Introduction to AWS, Cloud Computing",
+        "description": "Learn the basics of web development, including HTML, CSS, and JavaScript.",
+        "price": 21,
+        "creditHour": 3,
+        "icon": "https://i.ibb.co/fYqMq8s/book.png"
+    },
+    {
+        "id": 8,
+        "Course_img": "https://i.ibb.co/Ht2TPp3/Rectangle-2-1.png",
+        "CourseTitle": "Introduction to Database (MySQL)",
+        "description": "Learn the basics of web development, including HTML, CSS, and JavaScript.",
+        "price": 56,
+        "creditHour": 3,
+        "icon": "https://i.ibb.co/fYqMq8s/book.png"
+    },
+    {
+        "id": 9,
+        "Course_img": "https://i.ibb.co/VqqyZcH/Rectangle-2-6.png",
+        "CourseTitle": "Introduction to Problem-Solving Part",
+        "description": "Learn the basics of web development, including HTML, CSS, and JavaScript.",
+        "price": 23,
+        "creditHour": 3,
+        "icon": "https://i.ibb.co/fYqMq8s/book.png"
+    }
+  ]
+  
